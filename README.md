@@ -7,8 +7,8 @@
 
 ### Full-Time Experience
 - SWE IV [GKE, Go, Ruby, Py] - WP Engine, Austin, TX (Remote) (2022-24)
-- Sr. Software Engineer [AZ, Java, C#] - FIMC, Madison, WI (Remote) (2020-22)
-- Sr. Software Engineer [AWS, NodeJS, PHP] - Pizza Hut Digital Ventures, London, UK (Remote) (2019)
+- Sr. Software Engineer [AZ, Java, C#] - FIMC, Madison, WI (Remote) (2021-22)
+- Sr. Software Engineer [AWS, NodeJS, PHP] - Pizza Hut Digital Ventures, London, UK (Remote) (2019-20)
 - Sr. Software Engineer [AWS, Py, C#] - (AWS GovCloud) Tyler Technologies, Yarmouth, ME (Remote) (2017-18)
 - Full-Stack Developer [NodeJS] - TxDOT, Austin, TX (2016)
 - Web Development Immersive [Ruby, NodeJS] - General Assembly, Austin, TX (2015)
