@@ -5,7 +5,7 @@
 
 ## Professional Experience
 
-### Startups (2020-24)
+### Startup (2020-24)
 - SWE IV [GKE, Go, Ruby, Py] - WP Engine, Silverlake Investments
 - SRE [GKE, Go, Py] - Censys, Ann Arbor, MI - Google Ventures
 - SWE III [AZ, Java, C#] - Fairway Now, Madison, WI - FIMC
