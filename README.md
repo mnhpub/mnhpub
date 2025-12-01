@@ -3,7 +3,7 @@
 - [Sr. Software Engineer CV](https://sr-software-engineer-cv.vercel.app/)
 - [StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
 
-## Professional Experience
+## Remote SWE Experience
 
 ### Startup (2020-24)
 - SWE IV [GKE, Go, Ruby, Py] - WP Engine (250M ARR), Austin, TX - Silverlake Investments
