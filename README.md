@@ -2,7 +2,7 @@
 
 [StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
 
-## Remote SWE Experience
+## SWE
 
 ### Startup (2020-24)
 - SWE IV [GKE, Go, Ruby, Py] - WP Engine (250M ARR), Austin, TX - Silverlake Investments
