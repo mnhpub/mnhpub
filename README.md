@@ -6,6 +6,7 @@
 
 ### Startup (2020-24)
 **SWE IV [GKE, Go, Ruby, Py]**
+
 WP Engine Austin, TX
 ###### Silverlake Investments 350M ARR
 
