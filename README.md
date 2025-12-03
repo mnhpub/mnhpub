@@ -2,12 +2,13 @@
 
 [StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
 
-## SWE
+## SWE/SRE
 
 ### Startup (2020-24)
-- SWE IV [GKE, Go, Ruby, Py] - WP Engine (250M ARR), Austin, TX - Silverlake Investments
-- SRE [GKE, Go, Py] - Censys (70M ARR), Ann Arbor, MI - Google Ventures
-- SWE III [AZ, Java, C#] - Fairway Now (7B ARR), Madison, WI - FIMC
+###### SWE IV [GKE, Go, Ruby, Py]
+WP Engine (250M ARR), Austin, TX - Silverlake Investments
+###### SRE [GKE, Go, Py] - Censys (70M ARR), Ann Arbor, MI - Google Ventures
+###### SWE III [AZ, Java, C#] - Fairway Now (7B ARR), Madison, WI - FIMC
 
 ### Private (2015-19)
 - SWE III [AWS Fargate, NodeJS, Py] - Pizza Hut Digital Ventures, London, UK
