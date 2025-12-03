@@ -1,7 +1,5 @@
 # M Hacker
 
-[StackOverflow](https://stackoverflow.com/users/4612518/bananaforscale)
-
 ### Startup (2019-24)
 **SWE IV [GKE, Go, Ruby, Py]**
 - WP Engine (Austin, TX)
@@ -30,8 +28,10 @@
 - General Assembly (Austin, TX)
     
 ### Education
-- University of North Texas (2010-2014) [BAAS - Economics]
-- Collin County Community College (1998-2000) [AS - Finance]
+- **University of North Texas (BAAS - Economics)
+- *2010 - 2014*
+- **Collin County Community College (AS - Finance)**
+- *1998 - 2000*
 
 ### Research
 - [IaaS](https://github.com/bfsio/inf-svc)
