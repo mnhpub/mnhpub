@@ -6,9 +6,8 @@
 
 ### Startup (2020-24)
 **SWE IV [GKE, Go, Ruby, Py]**
-
-WP Engine Austin, TX
-###### Silverlake Investments 350M ARR
+- WP Engine Austin, TX
+- ###### Silverlake Investments 350M ARR
 
 ###### SRE [GKE, Go, Py] - Censys (70M ARR), Ann Arbor, MI - Google Ventures
 ###### SWE III [AZ, Java, C#] - Fairway Now (7B ARR), Madison, WI - FIMC
