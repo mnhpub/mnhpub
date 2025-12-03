@@ -28,10 +28,8 @@
 - General Assembly (Austin, TX)
     
 ### Education
-- **University of North Texas (BAAS - Economics)**
-- *2010 - 2014*
-- **Collin County Community College (AS - Finance)**
-- *1998 - 2000*
+- **University of North Texas (BAAS - Economics)** *2010 - 2014*
+- **Collin County Community College (AS - Finance)** *1998 - 2000*
 
 ### Research
 - [IaaS](https://github.com/bfsio/inf-svc)
