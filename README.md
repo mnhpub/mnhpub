@@ -17,9 +17,10 @@
 - Pizza Hut Online (London, UK) *Remote*
 - *Yum! 5.6B AR*
 
-### Private (2015-18)
+### Private Sector (2015-18)
 **SRE [AWS GovCloud, Py, C#]**
 - Tyler Technologies (Yarmouth, ME) *Remote*
+- *DOJ*
 
 **Full-Stack [NodeJS]**
 - TxDOT (Austin, TX)
