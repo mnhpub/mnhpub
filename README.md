@@ -1,19 +1,20 @@
 # M Hacker
 
-### Startups (2015-24)
-**SWE**
-- #### 2024-22 WP Engine (Austin, TX)
+### Startups
+
+#### 2024-22 WP Engine (Austin, TX)
+- **SWE**
 - GKE, Go, Ruby, Py
 - *Silverlake Investments - Late Stage 350M ARR*
 
-**SRE**
-- #### 2022 Censys (Ann Arbor, MI)
+#### 2022 Censys (Ann Arbor, MI)
+- **SRE**
 - GKE, Go, Py
 - *Remote*
 - *Google Ventures 70M ARR*
 
-**SWE**
-- #### 2022-21 Fairway Now (Madison, WI)
+#### 2022-21 Fairway Now (Madison, WI)
+- **SWE**
 - AZ, Java, C#
 - *Remote*
 - *FIMC 7B ARR*
