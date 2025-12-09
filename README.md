@@ -1,6 +1,6 @@
 # M Hacker
 
-### Startup (2019-24)
+### Startups (2015-24)
 **SWE IV [GKE, Go, Ruby, Py]**
 - WP Engine (Austin, TX)
 - *Silverlake Investments - Late Stage 350M ARR*
@@ -17,16 +17,17 @@
 - Pizza Hut Online (London, UK) *Remote*
 - *Yum! 5.6B AR*
 
-### Private Sector (2015-18)
 **SRE [AWS GovCloud, Py, C#]**
 - Tyler Technologies (Yarmouth, ME) *Remote*
 - *DOJ*
 
-**Full-Stack [NodeJS]**
+**Web Developer [Java, NodeJS]**
 - TxDOT (Austin, TX)
+- *State of Texas*
 
-**Web Developer [Ruby, NodeJS]**
-- General Assembly (Austin, TX)
+**Web Developer[Ruby, NodeJS]**
+- 2015 Cohort (Austin, TX)
+- *General Assembly*
     
 ### Education
 - **University of North Texas (BAAS - Economics)** *2010 - 2014*
