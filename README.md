@@ -3,8 +3,7 @@
 ### Startups
 
 #### 2024-22 WP Engine (Austin, TX)
-- **SWE**
-- GKE, Go, Ruby, Py
+- **SWE** - GKE, Go, Ruby, Py
 - *Silverlake Investments - Late Stage 350M ARR*
 
 #### 2022 Censys (Ann Arbor, MI)
