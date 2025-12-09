@@ -1,7 +1,7 @@
 # M Hacker
 
 ### Startups (2015-24)
-**SWE IV [GKE, Go, Ruby, Py]**
+#### **SWE IV [GKE, Go, Ruby, Py]**
 - WP Engine (Austin, TX) - *Silverlake Investments - Late Stage 350M ARR*
 
 **SRE [GKE, Go, Py]**
