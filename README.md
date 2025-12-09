@@ -19,7 +19,7 @@
 #### 2020-19 Pizza Hut Online (London, UK)
 - **SWE** - AWS Fargate, NodeJS, Py
 - *Remote*
-- *Yum! Fish Bowl 5.6B AR*
+- *Yum! - Fish Bowl 5.6B AR*
 
 ### Private Sector
 
