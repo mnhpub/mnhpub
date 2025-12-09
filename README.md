@@ -2,8 +2,8 @@
 
 ### Startups (2015-24)
 **SWE IV [GKE, Go, Ruby, Py]**
-#### WP Engine (Austin, TX)
-*Silverlake Investments - Late Stage 350M ARR*
+- #### WP Engine (Austin, TX)
+- *Silverlake Investments - Late Stage 350M ARR*
 
 **SRE [GKE, Go, Py]**
 - Censys (Ann Arbor, MI) *Remote* - *Google Ventures 70M ARR*
