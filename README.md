@@ -1,18 +1,24 @@
 # M Hacker
 
 ### Startups (2015-24)
-**SWE IV**
+**SWE**
 - #### WP Engine (Austin, TX)
-- [GKE, Go, Ruby, Py]
+- GKE, Go, Ruby, Py
 - *Silverlake Investments - Late Stage 350M ARR*
 
-**SRE [GKE, Go, Py]**
-- Censys (Ann Arbor, MI) *Remote* - *Google Ventures 70M ARR*
+**SRE**
+- #### Censys (Ann Arbor, MI)
+- GKE, Go, Py
+- *Remote*
+- *Google Ventures 70M ARR*
 
-**SWE III [AZ, Java, C#]**
-- Fairway Now (Madison, WI) *Remote* - *FIMC 7B ARR*
+**SWE**
+- #### Fairway Now (Madison, WI)
+- AZ, Java, C#
+- *Remote*
+- *FIMC 7B ARR*
 
-**SWE III [AWS Fargate, NodeJS, Py]**
+**SWE [AWS Fargate, NodeJS, Py]**
 - Pizza Hut Online (London, UK) *Remote* - *Yum! 5.6B AR*
 
 **SRE [AWS GovCloud, Py, C#]**
