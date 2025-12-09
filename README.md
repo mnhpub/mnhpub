@@ -7,37 +7,31 @@
 - *Silverlake Investments - Late Stage 350M ARR*
 
 #### 2022 Censys (Ann Arbor, MI)
-- **SRE**
-- GKE, Go, Py
+- **SRE** - GKE, Go, Py
 - *Remote*
 - *Google Ventures - Early State 70M ARR*
 
 #### 2022-21 Fairway Now (Madison, WI)
-- **SWE**
-- AZ, Java, C#
+- **SWE** - AZ, Java, C#
 - *Remote*
 - *FIMC - Early Stage 7B ARR*
 
 #### 2020-19 Pizza Hut Online (London, UK)
-- **SWE**
-- AWS Fargate, NodeJS, Py
+- **SWE** - AWS Fargate, NodeJS, Py
 - *Remote*
 - *Yum! Early Stage 5.6B AR*
 
 ### Private Sector
 
 #### 2018-17 Tyler Technologies (Yarmouth, ME)
-- **SRE**
-- AWS GovCloud, Py, C#
+- **SRE** - AWS GovCloud, Py, C#
 - *Remote*
 
 #### 2016 TxDOT (Austin, TX)
-- **Web Developer**
-- Java, NodeJS
+- **Web Developer** - Java, NodeJS
 
-**Web Developer**
-- #### 2015 Cohort (Austin, TX)
-- Ruby, NodeJS
+#### 2015 Cohort (Austin, TX)
+- **Web Developer** - Ruby, NodeJS
 
 ### Education
 - **University of North Texas (BAAS - Economics)** *2010 - 2014*
