@@ -30,7 +30,7 @@
 #### 2016 TxDOT (Austin, TX)
 - **Web Developer** - Java, NodeJS
 
-#### 2015 ATX GA Cohort (Austin, TX)
+#### 2015 ATX GA Cohort 0 (Austin, TX)
 - **Web Developer** - Ruby, NodeJS
 
 ### Education
