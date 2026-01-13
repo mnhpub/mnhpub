@@ -1,6 +1,6 @@
 # CV
 
-### Startup
+### Professional
 - 2025-26 BFSIO (Washington, DC) **CTO (zOS, C)** *Yaymo! - Stealth 1M AR*
 - 2024-22 WP Engine (Austin, TX) **SWE (GKE, Go, Ruby, Py)** *Silverlake Investments - Late Stage 350M ARR*
 - 2022 Censys (Ann Arbor, MI) **SRE (GKE, Go, Py)** *Google Ventures - Early State 70M ARR*
