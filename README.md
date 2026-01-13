@@ -1,6 +1,7 @@
 # SWE/SRE CV
 
 ### Startup
+- 2025-26 BFSIO (Washington, DC) **SWE (zOS, C)** *Yaymo! - Stealth 1M AR*
 - 2024-22 WP Engine (Austin, TX) **SWE (GKE, Go, Ruby, Py)** *Silverlake Investments - Late Stage 350M ARR*
 - 2022 Censys (Ann Arbor, MI) **SRE (GKE, Go, Py)** *Google Ventures - Early State 70M ARR*
 - 2022-21 Fairway Now (Madison, WI) **SWE (AKS, Java, C#)** *FIMC - Stealth 7B ARR*
@@ -12,5 +13,5 @@
 - 2015 ATX GA Cohort 0 (Austin, TX) **SWE (Ruby, NodeJS)**
 
 ### Education
-- 2010 - 2014 University of North Texas **(BAAS, Economics)**
-- 1998 - 2000 Collin County Community College **(AS, Finance)**
+- 2014 University of North Texas **(BAAS, Economics)**
+- 2000 Collin County Community College **(AS, Finance)**
