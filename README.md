@@ -1,4 +1,4 @@
-# SWE/SRE CV
+# CV
 
 ### Startup
 - 2025-26 BFSIO (Washington, DC) **CTO (zOS, C)** *Yaymo! - Stealth 1M AR*
