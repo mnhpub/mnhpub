@@ -6,10 +6,10 @@
 - 2022 Censys (Ann Arbor, MI) **SRE (GKE, Go, Py)** *Google Ventures - Early State 70M ARR*
 - 2022-21 Fairway Now (Madison, WI) **SWE (AKS, Java, C#)** *FIMC - Stealth 7B ARR*
 - 2020-19 Pizza Hut Online (London, UK) **SWE (EKS, NodeJS, Py)** *Yum! - Stealth 5.652B 2020 AR*
-- 2018-17 Tyler Technologies (Yarmouth, ME) **SRE (EKS, Py, C#)**
-- 2016 TxDOT (Austin, TX) **SWE (Java, NodeJS)**
-- 2015 ATX GA Cohort 0 (Austin, TX) **SWE (Ruby, NodeJS)**
+- 2018-17 Tyler Technologies (Yarmouth, ME) **SRE (EKS, Py, C#)** *Federal Contract*
+- 2016 TxDOT (Austin, TX) **SWE (Java, NodeJS)** *Agency Work*
 
 ### Education
+- 2015 ATX General Assembly, Cohort 0 (Austin, TX) **SWE (Ruby, NodeJS)**
 - 2014 University of North Texas **(BAAS, Economics)**
 - 2000 Collin County Community College **(AS, Finance)**
