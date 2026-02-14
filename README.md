@@ -11,5 +11,3 @@
 
 ### Education
 - 2015 ATX General Assembly, Cohort 0 (Austin, TX) **SWE (Ruby, NodeJS)**
-- 2014 University of North Texas **(BAAS, Economics)**
-- 2000 Collin County Community College **(AS, Finance)**
