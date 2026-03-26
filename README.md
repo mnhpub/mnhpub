@@ -7,4 +7,4 @@
 - 2020-19 Pizza Hut Online (London, UK) **SWE (EKS, NodeJS, Py)** *Yum! - Stealth 5.652B 2020 AR*
 - 2018-17 Tyler Technologies (Yarmouth, ME) **SRE (EKS, Py, C#)** *FedRamp*
 - 2016 Grab (Wellington, NZ) **SWE (Java, NodeJS)** *Softbank*
-- 2015 ATX General Assembly, Cohort 0 (Austin, TX) **SWE (Ruby, NodeJS)**
+- 2015 ATX General Assembly, Cohort Zed (Austin, TX) **SWE (Ruby, NodeJS)**
