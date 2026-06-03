@@ -4,7 +4,7 @@
 - 2024-22 WP Engine (Austin, TX) **SRE (GKE, Go, Ruby, Py)** *Silverlake Investments - Late Stage 350M ARR*
 - 2022 Censys (Ann Arbor, MI) **SRE (GKE, Go, Py)** *Google Ventures - Early State 70M ARR*
 - 2022-20 Fairway Now (Madison, WI) **SWE (AKS, Java, C#)** *FIMC - Stealth 7B ARR*
-- 2019 Pizza Hut Online (London, UK) **SWE (EKS, NodeJS, Py)** *Yum! - Stealth 5.652B 2020 AR*
+- 2019 Pizza Hut International (London, UK) **SWE (EKS, NodeJS, Py)** *Yum! - Stealth 5.652B 2020 AR*
 - 2018-17 Tyler Technologies (Yarmouth, ME) **SRE (EKS, Py, C#)** *FedRamp*
 - 2015-16 Grab (Wellington, NZ) **SWE (Java, NodeJS)** *Softbank*
 - 2015 ATX General Assembly, Cohort Zed (Austin, TX) **SWE (Ruby, NodeJS)**
