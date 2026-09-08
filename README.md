@@ -1,10 +1,10 @@
-# CV
+### Work
 
-- 2024-Present LedgerWriter (Washington, DC) **Founder** (Zig) *BFSIO - Stealth <1M AR*
-- 2024-22 WP Engine (Austin, TX) **SRE (GKE, Go, Ruby, Py)** *Silverlake Investments - Late Stage 350M ARR*
-- 2022 Censys (Ann Arbor, MI) **SRE (GKE, Go, Py)** *Google Ventures - Early State 70M ARR*
-- 2022-20 Fairway Now (Madison, WI) **SWE (AKS, Java, C#)** *FIMC - Stealth 7B ARR*
-- 2019 Pizza Hut International (London, UK) **SWE (EKS, NodeJS, Py)** *Yum! - Stealth 5.652B 2020 AR*
-- 2018-17 Tyler Technologies (Yarmouth, ME) **SRE (EKS, Py, C#)** *FedRamp*
-- 2015-16 Grab (Wellington, NZ) **SWE (Java, NodeJS)** *Softbank*
-- 2015 ATX General Assembly, Cohort Zed (Austin, TX) **SWE (Ruby, NodeJS)**
+* **2024–Present · LedgerWriter** — Founder / Creator · TSX/Bun · [tiny-cqrs](https://github.com/LedgerWriter/tiny-cqrs)
+* **2022–24 · WP Engine** — SRE · GKE · Go/Ruby/Python
+* **2022 · Censys** — SRE · GKE · Go/Python
+* **2020–22 · Fairway Now** — SWE · AKS · Java/C#
+* **2019 · Pizza Hut International** — SWE · EKS · Node.js/Python
+* **2017–18 · Tyler Technologies** — SRE · EKS · Python/C#
+* **2016–15 · Grab** — SWE · Java/Node.js
+* **2015 · General Assembly** — SWE · Ruby/Node.js
